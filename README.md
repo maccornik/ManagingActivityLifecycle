@@ -1,0 +1,1 @@
+Zobaczymy jak dzia³a ten cykl ¿ycia :)
