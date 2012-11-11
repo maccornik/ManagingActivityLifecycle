@@ -1,1 +1,1 @@
-Zobaczymy jak dzia³a ten cykl ¿ycia :)
+ï»¿Zobaczymy jak dziaÅ‚a ten cykl Å¼ycia :)
