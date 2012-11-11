@@ -1,1 +1,4 @@
-﻿Zobaczymy jak działa ten cykl życia :)
+﻿ManagingActivityLifecycle
+=========================
+
+Zobaczymy jak działa ten cykl życia :)
